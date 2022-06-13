@@ -1,1 +1,0 @@
-# gurtejkochhar.github.io
