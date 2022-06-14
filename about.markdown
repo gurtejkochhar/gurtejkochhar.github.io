@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Gurnoors short stories illustrated by Charlene Mcallister. 
+Gurnoors short stories. 
 
 This is a WIP. 
 
